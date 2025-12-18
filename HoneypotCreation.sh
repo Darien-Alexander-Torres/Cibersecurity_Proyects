@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Función para mostrar el menú principal
 function show_menu() {
     echo "========================="
