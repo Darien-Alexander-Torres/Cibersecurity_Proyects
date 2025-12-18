@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #Función para realizar el primer escaneo de puertos con nmap y verificando puertos con netcat.
 function PortScan1 {
 	read -p "Introduzca la direccion IP o el rango de IPs a escanear por ejemplo puede probar con ""127.0.0.1"" :" ip_range
