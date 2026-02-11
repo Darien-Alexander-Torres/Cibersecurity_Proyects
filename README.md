@@ -19,7 +19,7 @@ Un script de defensa activa orientado al monitoreo de intrusiones mediante la cr
 * Gestión de Logs: Redirección automática de eventos al archivo `/var/log/honeypot.log` para facilitar auditorías de seguridad.
 * Validación: Incluye funciones de validación de rangos de puertos y manejo de errores para asegurar la estabilidad del servicio.
 
-🚀 Requisitos de Ejecución
+ Requisitos de Ejecución
 
 Para el correcto funcionamiento de los módulos, asegúrese de contar con:
 * Dependencias: `nmap`, `netcat` (nc).
